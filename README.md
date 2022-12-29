@@ -4,7 +4,7 @@
 </p>
 <br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Christian-Schou&show_icons=true&count_private=true&theme=algolia" alt="Lova Tahiana" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Lova-Tahiana&show_icons=true&count_private=true&theme=algolia" alt="Lova Tahiana" /></p>
 
 
 ## :sassy_man:  About me
