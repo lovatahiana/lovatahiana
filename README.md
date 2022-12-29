@@ -8,7 +8,7 @@
 
 ## :sassy_man:  About me
 - :school: I am a Computer Engineer Educated at Konya Technical University in Turkey
-- :technologist: I love using Software as a solution for every `problem`
+- :technologist: I love using Software as a solution for every `problems`
 - :student: I’m currently studying: `Software Architecture` and ` Software Engineering`.
 - :nerd_face: Love to discuss with others about `software and technology`
 
