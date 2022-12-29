@@ -4,8 +4,7 @@
 </p>
 <br>
 
-
-
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Lovatahiana&show_icons=true&count_private=true&theme=algolia" alt="Lova Tahiana" /></p>
 ## :sassy_man:  About me
 - :school: I am a Computer Engineer Educated at Konya Technical University in Turkey
 - :technologist: I love using Software as a solution for every `problem`
