@@ -4,13 +4,12 @@
 </p>
 <br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Lova-Tahiana&show_icons=true&count_private=true&theme=algolia" alt="Lova Tahiana" /></p>
 
 
 ## :sassy_man:  About me
 - :school: I am a Computer Engineer Educated at Konya Technical University in Turkey
 - :technologist: I love using Software as a solution for every `problem`
-- :student: I’m currently studying: `Software- and Systems Architecture` and `Cloud Software Engineering`.
+- :student: I’m currently studying: `Software- and Software Architecture` and ` Software Engineering`.
 - :nerd_face: Love to discuss with others about `software and technology`
 
 <br>
